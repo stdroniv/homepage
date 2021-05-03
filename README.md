@@ -1,3 +1,6 @@
 # Homepage
 ## Created by Droniv Stepan
-My very own personal website. Basically this is just a résumé.
+
+![Image of resume page](https://github.com/stdroniv/homepage/blob/develop/assets/images/preview.png)
+
+# 💥Boom, done, готово!
