@@ -1,4 +1,4 @@
 # Homepage
 ## Created by Droniv Stepan
 
-(./assets/images/preview.png)
+(https://github.com/stdroniv/homepage/blob/develop/assets/images/preview.png)
